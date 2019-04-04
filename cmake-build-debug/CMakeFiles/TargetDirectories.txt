@@ -1,0 +1,4 @@
+/cygdrive/c/Users/nEW u/CLionProjects/tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/nEW u/CLionProjects/tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/nEW u/CLionProjects/tree/cmake-build-debug/CMakeFiles/basic.dir
+/cygdrive/c/Users/nEW u/CLionProjects/tree/cmake-build-debug/CMakeFiles/tree.dir
